@@ -203,4 +203,3 @@ Notebook `notebooks/01_exploration_and_model.ipynb` sadrži:
 
 ------------------------------------------------------------------------
 
-# 🎉 Hvala!
